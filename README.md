@@ -7,7 +7,7 @@ PASSWD-GEN is a robust and secure Bash script for generating strong, random pass
 
 # Open Your Terminal And Run Following Commands
 
-
+ 
 # **Update & Upgarde Your Repositories**
     $ sudo apt-get update && sudo apt-get full-upgrade -y
 # **Clone The Repo From Github** 
